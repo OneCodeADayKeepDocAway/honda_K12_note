@@ -29,6 +29,10 @@ K12 的後燈組主要分為「車身側」與「行李箱蓋側」兩部分。
 
 ## 4. 樣本與價格
 - 材質透明玻璃 型號 T10 電壓 12（V） 功率 5（W） T10插式 `5W比較耗能但會很亮 一般是W`
-![70832052e7edd4278ed93ae84a2d9216@resize_w900_nl](https://github.com/user-attachments/assets/d5873929-d48a-4e35-bc0b-d2fe91e359bf)
 
+<!-- 這是註解
+![70832052e7edd4278ed93ae84a2d9216@resize_w900_nl](https://github.com/user-attachments/assets/d5873929-d48a-4e35-bc0b-d2fe91e359bf)
+-->
+
+<img src="https://github.com/user-attachments/assets/d5873929-d48a-4e35-bc0b-d2fe91e359bf" width="30%">
 ---
