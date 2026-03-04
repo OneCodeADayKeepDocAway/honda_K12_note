@@ -28,11 +28,20 @@ K12 的後燈組主要分為「車身側」與「行李箱蓋側」兩部分。
 - 清潔底座： K12 車齡較久，更換時建議檢查燈座是否有發黑或氧化跡象，可以用電子接點清潔劑噴一下，避免接觸不良。
 
 ## 4. 樣本與價格
-- 材質透明玻璃 型號 T10 電壓 12（V） 功率 5（W） T10插式 `5W比較耗能但會很亮 一般是3W`
-
+- 材質透明玻璃 型號 T10 電壓 12（V） 功率 5（W） T10插式 `5W比較耗能但會很亮 一般是3W` 10NT
 <!-- 這是註解
 ![70832052e7edd4278ed93ae84a2d9216@resize_w900_nl](https://github.com/user-attachments/assets/d5873929-d48a-4e35-bc0b-d2fe91e359bf)
 -->
+<img src="https://github.com/user-attachments/assets/d5873929-d48a-4e35-bc0b-d2fe91e359bf" width="300">
 
-<img src="https://github.com/user-attachments/assets/d5873929-d48a-4e35-bc0b-d2fe91e359bf" width="30%">
+
+
+- T20煞車燈7443雙芯 兩段式亮度 原廠型燈泡非led 16~49NT, LED 65NT
+
+|T20單芯| (7440)|
+|---|---|
+|T20雙芯| (7443)|
+
+<img width="300" alt="tw-11134258-81ztq-mi9z4zufebd241" src="https://github.com/user-attachments/assets/611a1a88-f794-48f9-95a4-67ea57fcc1b1" />
+
 ---
